@@ -1,2 +1,2 @@
 # write-better-python-code
-https://www.youtube.com/channel/UCVhQ2NnY5Rskt6UjCUkJ_DA
+Coding as I follow the excellent tutorials from [ArjanCodes' YouTube channel](https://www.youtube.com/c/ArjanCodes/videos).

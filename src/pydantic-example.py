@@ -22,7 +22,6 @@ class ISBNMissingError(Exception):
         super().__init__(message)
 
 
-
 class Book(pydantic.BaseModel):
     title: str
     author: str

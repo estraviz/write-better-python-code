@@ -40,7 +40,6 @@ class Vehicle:
 
 
 class VehicleRegistry:
-
     vehicle_info = {}
 
     def _add_vehicle_info(self, brand, electric, catalogue_price):
@@ -65,7 +64,6 @@ class VehicleRegistry:
 
 
 class Application:
-
     def register_vehicle(self, brand: str):
         registry = VehicleRegistry()
         return registry.create_vehicle(brand)
